@@ -15,15 +15,15 @@ This portfolio highlights my design process, technical skills, and selected proj
 
 ## ✨ Features
 
-- Responsive design for all devices
-- Modern UI with smooth animations
-- Project showcase
-- Skills section
-- About Me
-- Contact section
-- Optimized performance
-- Clean component-based architecture
-- Fast loading with Vite
+* Responsive design for all devices
+* Modern UI with smooth animations
+* Interactive project showcase
+* Skills and expertise section
+* About Me section
+* Contact section
+* Performance-optimized architecture
+* Clean component-based development
+* Fast loading experience
 
 ---
 
@@ -31,126 +31,57 @@ This portfolio highlights my design process, technical skills, and selected proj
 
 ### Frontend
 
-- React
-- Vite
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+* React
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
 
 ### Design
 
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
 
 ### 3D & Motion
 
-- Blender
-- GSAP
-- Framer Motion
+* Blender
+* GSAP
+* Framer Motion
 
 ---
 
-## 📁 Project Structure
+## 🎨 Portfolio Highlights
 
-```
-src/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── videos/
-│
-├── components/
-│   ├── common/
-│   ├── layout/
-│   └── sections/
-│
-├── pages/
-├── hooks/
-├── utils/
-├── styles/
-│
-├── App.jsx
-└── main.jsx
-```
+* UI/UX Design
+* Web Design
+* Frontend Development
+* Brand Identity
+* Logo Design
+* Graphic Design
+* Product Visualization
+* 3D Rendering
+* Motion Graphics
 
 ---
 
-## 📦 Installation
+## 🌍 Live Website
 
-Clone the repository
-
-```bash
-git clone https://github.com/vishnuponoli21/creative-web-portfolio.git
-```
-
-Navigate into the project
-
-```bash
-cd creative-web-portfolio
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
-Preview production build
-
-```bash
-npm run preview
-```
+**https://www.vishnuponoli.in**
 
 ---
 
-## 🎨 Portfolio Includes
-
-- UI/UX Design
-- Web Design
-- Frontend Development
-- Branding
-- Logo Design
-- Graphic Design
-- Product Visualization
-- 3D Rendering
-- Motion Graphics
-
----
-
-## 📬 Contact
+## 📬 Connect With Me
 
 **Website**
-
 https://www.vishnuponoli.in
 
 **Behance**
-
 https://www.behance.net/vishnuponoli_creativ
 
 **GitHub**
-
 https://github.com/vishnuponoli21
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
