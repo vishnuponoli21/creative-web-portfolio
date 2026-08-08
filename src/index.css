@@ -1,0 +1,18 @@
+@import "tailwindcss";
+*::-webkit-scrollbar {
+  display: none;
+}
+body {
+  background-color: black;
+  color: white;
+  overflow-x: hidden;
+  font-family: system-ui;
+  cursor: none;
+  scroll-behavior: smooth;
+}
+
+.glass {
+  background-color: rgb(255 255 255 / 0.05);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgb(255 255 255 / 0.1);
+}
