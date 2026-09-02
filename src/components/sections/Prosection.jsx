@@ -237,7 +237,7 @@ export default function Prosection() {
                         muted
                         loop
                         playsInline
-                        preload="auto"
+                        preload="metadata"
                         className="w-full h-full object-cover"
                       />
                     </div>
