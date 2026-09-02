@@ -14,12 +14,12 @@ import p7 from "../../assets/p7.png";
 import p8 from "../../assets/p8.png";
 import p9 from "../../assets/p9.png";
 import p10 from "../../assets/p10.png";
-import p11 from "../../assets/p11.png";
-import p12 from "../../assets/p12.png";
-import p13 from "../../assets/p13.png";
-import p14 from "../../assets/p14.png";
-import p15 from "../../assets/p15.png";
-import p16 from "../../assets/p16.png";
+import p11 from "../../assets/P11.png";
+import p12 from "../../assets/P12.png";
+import p13 from "../../assets/P13.png";
+import p14 from "../../assets/P14.png";
+import p15 from "../../assets/P15.png";
+import p16 from "../../assets/P16.png";
 
 import blenderVideo1 from "../../assets/GREY_MARBLE_GREEN_WALL.webm";
 import blenderVideo2 from "../../assets/WARM_WHITE_MARBLE_MOSS_STONE.webm";
