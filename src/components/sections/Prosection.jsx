@@ -21,7 +21,7 @@ import p14 from "../../assets/P14.png";
 import p15 from "../../assets/P15.png";
 import p16 from "../../assets/P16.png";
 
-import blenderVideo1 from "../../assets/GREY_MARBLE_GREEN_WALL.webm";
+import blenderVideo1 from "../../assets/GREY_MARBLE_GREEN_WALL.mp4";
 import blenderVideo2 from "../../assets/WARM_WHITE_MARBLE_MOSS_STONE.webm";
 import blenderVideo3 from "../../assets/amazon.webm";
 import blenderVideo4 from "../../assets/ARCHI_STONE_WHIT_MARBLE.webm";
