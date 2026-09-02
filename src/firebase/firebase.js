@@ -6,7 +6,8 @@ import { getFirestore } from "firebase/firestore";
 
 // Firebase Config
 const firebaseConfig = {
-  apiKey: "",
+  apiKey:
+    "AIzaSyAYVUPQp7nZSHY9oKtBraAcFXjm9Mnxdv8AIzaSyAYVUPQp7nZSHY9oKtBraAcFXjm9Mnxdv8",
   authDomain: "vishnu-portfolio-ba4a5.firebaseapp.com",
   projectId: "vishnu-portfolio-ba4a5",
   storageBucket: "vishnu-portfolio-ba4a5.firebasestorage.app",
