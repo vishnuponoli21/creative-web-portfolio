@@ -68,7 +68,7 @@ This portfolio highlights my design process, technical skills, and selected proj
 
 ## 🌍 Live Website
 
-**(https://portfolio.vishnuponoli.in/)**
+**[(https://portfolio.vishnuponoli.in/)](https://portfolio.vishnuponoli.in/)**
 
 ---
 
