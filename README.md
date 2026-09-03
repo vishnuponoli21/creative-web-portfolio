@@ -3,7 +3,7 @@
 
 A modern, responsive portfolio website showcasing my work in **UI/UX Design**, **Frontend Development**, **Brand Identity**, **Graphic Design**, and **3D Visualization**.
 
-🔗 **Live Website:** https://www.vishnuponoli.in
+🔗 **Live Website:**[ https://www.vishnuponoli.in](https://portfolio.vishnuponoli.in/)
 
 ---
 
